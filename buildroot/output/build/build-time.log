@@ -1,0 +1,141 @@
+1678278957.858676370:start:download            : host-skeleton
+1678278957.869095291:end  :download            : host-skeleton
+1678278957.979345999:start:extract             : host-skeleton
+1678278958.037911535:end  :extract             : host-skeleton
+1678278958.151019011:start:patch               : host-skeleton
+1678278958.190943619:end  :patch               : host-skeleton
+1678278958.303163942:start:configure           : host-skeleton
+1678278958.339009041:end  :configure           : host-skeleton
+1678278958.456631763:start:build               : host-skeleton
+1678278958.465489663:end  :build               : host-skeleton
+1678278958.591236685:start:install-host        : host-skeleton
+1678278958.619341864:end  :install-host        : host-skeleton
+1678278958.928677363:start:download            : host-pkgconf
+1678278961.133571508:end  :download            : host-pkgconf
+1678278961.251572246:start:extract             : host-pkgconf
+1678278961.308208502:end  :extract             : host-pkgconf
+1678278961.420813463:start:patch               : host-pkgconf
+1678278961.510559890:end  :patch               : host-pkgconf
+1678278961.675622694:start:configure           : host-pkgconf
+1678278965.093407155:end  :configure           : host-pkgconf
+1678278965.207165171:start:build               : host-pkgconf
+1678278967.631742060:end  :build               : host-pkgconf
+1678278967.750673770:start:install-host        : host-pkgconf
+1678278967.932579669:end  :install-host        : host-pkgconf
+1678278968.290648717:start:download            : host-libzlib
+1678278970.086501725:end  :download            : host-libzlib
+1678278970.204353268:start:extract             : host-libzlib
+1678278970.331508715:end  :extract             : host-libzlib
+1678278970.446704837:start:patch               : host-libzlib
+1678278970.478354345:end  :patch               : host-libzlib
+1678278970.644339348:start:configure           : host-libzlib
+1678278971.319348906:end  :configure           : host-libzlib
+1678278971.436385143:start:build               : host-libzlib
+1678278978.376285150:end  :build               : host-libzlib
+1678278978.491310079:start:install-host        : host-libzlib
+1678278978.585531985:end  :install-host        : host-libzlib
+1678278978.905129903:start:download            : host-zlib
+1678278978.915703038:end  :download            : host-zlib
+1678278979.034881624:start:extract             : host-zlib
+1678278979.046900961:end  :extract             : host-zlib
+1678278979.165237946:start:patch               : host-zlib
+1678278979.193662686:end  :patch               : host-zlib
+1678278979.306396519:start:configure           : host-zlib
+1678278979.336999748:end  :configure           : host-zlib
+1678278979.453616939:start:build               : host-zlib
+1678278979.461711080:end  :build               : host-zlib
+1678278979.575106905:start:install-host        : host-zlib
+1678278979.585238170:end  :install-host        : host-zlib
+1678278979.910923754:start:download            : host-util-linux
+1678278980.523178633:end  :download            : host-util-linux
+1678278980.634466109:start:extract             : host-util-linux
+1678278981.309522596:end  :extract             : host-util-linux
+1678278981.426403424:start:patch               : host-util-linux
+1678278981.531113437:end  :patch               : host-util-linux
+1678278981.697018308:start:configure           : host-util-linux
+1678278998.969460195:end  :configure           : host-util-linux
+1678278999.085418381:start:build               : host-util-linux
+1678279047.544009584:end  :build               : host-util-linux
+1678279047.661120212:start:install-host        : host-util-linux
+1678279048.286241034:end  :install-host        : host-util-linux
+1678279049.015559621:start:download            : host-e2fsprogs
+1678279049.520238637:end  :download            : host-e2fsprogs
+1678279049.634063579:start:extract             : host-e2fsprogs
+1678279050.216165171:end  :extract             : host-e2fsprogs
+1678279050.331546844:start:patch               : host-e2fsprogs
+1678279050.448019251:end  :patch               : host-e2fsprogs
+1678279050.618230089:start:configure           : host-e2fsprogs
+1678279060.837203818:end  :configure           : host-e2fsprogs
+1678279060.951297600:start:build               : host-e2fsprogs
+1678279091.194847360:end  :build               : host-e2fsprogs
+1678279091.310171028:start:install-host        : host-e2fsprogs
+1678279093.960753532:end  :install-host        : host-e2fsprogs
+1678279094.790687341:start:download            : host-attr
+1678279095.613486423:end  :download            : host-attr
+1678279095.734083400:start:extract             : host-attr
+1678279095.782383838:end  :extract             : host-attr
+1678279095.895244618:start:patch               : host-attr
+1678279095.974989238:end  :patch               : host-attr
+1678279096.148441548:start:configure           : host-attr
+1678279098.909854983:end  :configure           : host-attr
+1678279099.026236178:start:build               : host-attr
+1678279100.610670411:end  :build               : host-attr
+1678279100.729735382:start:install-host        : host-attr
+1678279100.952225296:end  :install-host        : host-attr
+1678279101.824295515:start:download            : host-acl
+1678279102.506528421:end  :download            : host-acl
+1678279102.623845419:start:extract             : host-acl
+1678279102.675475877:end  :extract             : host-acl
+1678279102.793104167:start:patch               : host-acl
+1678279102.873433151:end  :patch               : host-acl
+1678279103.045733538:start:configure           : host-acl
+1678279105.854479363:end  :configure           : host-acl
+1678279105.975178852:start:build               : host-acl
+1678279109.930681283:end  :build               : host-acl
+1678279110.050669843:start:install-host        : host-acl
+1678279110.264000402:end  :install-host        : host-acl
+1678279111.149007516:start:download            : host-fakeroot
+1678279111.692274530:end  :download            : host-fakeroot
+1678279111.810254408:start:extract             : host-fakeroot
+1678279111.847127971:end  :extract             : host-fakeroot
+1678279111.959760953:start:patch               : host-fakeroot
+1678279112.030055323:end  :patch               : host-fakeroot
+1678279112.205385653:start:configure           : host-fakeroot
+1678279118.547203719:end  :configure           : host-fakeroot
+1678279118.660669446:start:build               : host-fakeroot
+1678279119.920178587:end  :build               : host-fakeroot
+1678279120.039763622:start:install-host        : host-fakeroot
+1678279120.455053218:end  :install-host        : host-fakeroot
+1678279121.339033117:start:download            : host-makedevs
+1678279121.349019337:end  :download            : host-makedevs
+1678279121.460182690:start:extract             : host-makedevs
+1678279121.474521597:end  :extract             : host-makedevs
+1678279121.586965727:start:patch               : host-makedevs
+1678279121.618140643:end  :patch               : host-makedevs
+1678279121.732216644:start:configure           : host-makedevs
+1678279121.764553347:end  :configure           : host-makedevs
+1678279121.877797666:start:build               : host-makedevs
+1678279122.121588642:end  :build               : host-makedevs
+1678279122.232808923:start:install-host        : host-makedevs
+1678279122.246429733:end  :install-host        : host-makedevs
+1678279123.136891964:start:download            : host-m4
+1678279125.045034883:end  :download            : host-m4
+1678279125.160808917:start:extract             : host-m4
+1678279125.331715078:end  :extract             : host-m4
+1678279125.445679821:start:patch               : host-m4
+1678279125.515946377:end  :patch               : host-m4
+1678279125.690330857:start:configure           : host-m4
+1678279155.235073028:end  :configure           : host-m4
+1678279155.354859295:start:build               : host-m4
+1678279164.529290345:end  :build               : host-m4
+1678279164.644405084:start:install-host        : host-m4
+1678279165.069267392:end  :install-host        : host-m4
+1678279165.965259808:start:download            : host-bison
+1678279166.765451379:end  :download            : host-bison
+1678279166.882719241:start:extract             : host-bison
+1678279167.158950457:end  :extract             : host-bison
+1678279167.271387736:start:patch               : host-bison
+1678279167.345492244:end  :patch               : host-bison
+1678279167.511931812:start:configure           : host-bison
+1678279200.430169182:end  :configure           : host-bison
+1678279200.542774369:start:build               : host-bison

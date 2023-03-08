@@ -1,0 +1,10 @@
+#
+# Automatically generated file; DO NOT EDIT.
+#
+
+menu "External options"
+
+comment "project_base (in /home/moskito/Desktop/Desktop/code/coursera/systems_prog/Ass4/assignment-4-birm/base_external)"
+source "/home/moskito/Desktop/Desktop/code/coursera/systems_prog/Ass4/assignment-4-birm/base_external/Config.in"
+
+endmenu
