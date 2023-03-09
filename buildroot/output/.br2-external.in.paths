@@ -1,0 +1,8 @@
+#
+# Automatically generated file; DO NOT EDIT.
+#
+
+config BR2_EXTERNAL_project_base_PATH
+	string
+	default "/home/moskito/Desktop/Desktop/code/coursera/systems_prog/coursera/assignments-3-and-later-moskwitto/assignment-4-moskwitto/base_external"
+
